@@ -132,7 +132,7 @@ def("DOMPDF_UNICODE_ENABLED", true);
 /**
  * Whether to make font subsetting or not.
  */
-def("DOMPDF_ENABLE_FONTSUBSETTING", false);
+def("DOMPDF_ENABLE_FONTSUBSETTING", true);
 
 /**
  * The PDF rendering backend to use
